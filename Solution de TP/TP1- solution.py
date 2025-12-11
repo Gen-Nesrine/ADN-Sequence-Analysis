@@ -10,8 +10,8 @@ data = {
 df = pd.DataFrame(data)
 
 print("=== Tableau complet ===")
-print(df.to_string(index=False))
+print(df.to_string
 
 # 2) اختيار و عرض العمود 'Longueur' 
 print("\n=== Colonne 'Longueur' seulement ===")
-print(df["Longueur"].to_string(index=False))
+print(df["Longueur"].to_string
