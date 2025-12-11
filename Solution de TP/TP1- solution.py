@@ -1,7 +1,6 @@
 # tp1_solution.py
 # 1) إنشاء وعرض الجدول باستعمال pandas
-data = {
-    "Séquence": [
+data = { "Séquence": [
         "ATGCGTACGTA", "GCTAGCTAGGCC", "ATGCGCGTAAGT", "TACGATCGTA",
         "ATGAAAGGCTT", "CGTACGTAGC", "TTAACCGGAT" ],
     "Longueur": [12, 12, 12, 10, 11, 10, 10],
@@ -9,9 +8,6 @@ data = {
 
 df = pd.DataFrame(data)
 
-print("=== Tableau complet ===")
-print(df.to_string
-
 # 2) اختيار و عرض العمود 'Longueur' 
-print("\n=== Colonne 'Longueur' seulement ===")
-print(df["Longueur"].to_string
+print(df["Longueur"].
+      
