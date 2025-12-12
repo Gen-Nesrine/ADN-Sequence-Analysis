@@ -1,5 +1,11 @@
-# tp1_solution.py
-# 1) إنشاء وعرض الجدول باستعمال pandas
+#Chef du projet: Chebab Nesrine|Lien du dépôt GitHub:
+https://github.com/gene-chebab/ADN-Sequence-Analysis
+# Date : 12/12/2025
+# - Chebab Nesrine 
+# - Tahir Fatima Zahra 
+# - Radjai kamilia
+# - Bouaricha siham
+
 data = { "Séquence": [
         "ATGCGTACGTA", "GCTAGCTAGGCC", "ATGCGCGTAAGT", "TACGATCGTA",
         "ATGAAAGGCTT", "CGTACGTAGC", "TTAACCGGAT" ],
