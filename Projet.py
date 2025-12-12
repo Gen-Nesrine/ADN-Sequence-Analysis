@@ -6,6 +6,7 @@ https://github.com/gene-chebab/ADN-Sequence-Analysis
 # - Radjai kamilia
 # - Bouaricha siham
 
+import pandas as pd 
 data = { "Séquence": [
         "ATGCGTACGTA", "GCTAGCTAGGCC", "ATGCGCGTAAGT", "TACGATCGTA",
         "ATGAAAGGCTT", "CGTACGTAGC", "TTAACCGGAT" ],
