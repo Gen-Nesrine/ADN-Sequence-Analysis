@@ -1,4 +1,4 @@
-#Chef du projet: Chebab Nesrine|Lien du dépôt GitHub:
+# Master 1 Génétique | Chef du projet: Chebab Nesrine|Lien du dépôt GitHub:
 https://github.com/gene-chebab/ADN-Sequence-Analysis
 # Date : 12/12/2025
 # - Chebab Nesrine 
